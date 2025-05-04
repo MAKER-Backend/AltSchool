@@ -1,0 +1,42 @@
+body,
+html {
+  background-color: rgb(225, 232, 235);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0;
+  padding: 0 10px;
+}
+
+/*element selector*/
+p {
+  color: blue;
+  font-size: 20px;
+  ;
+}
+
+/*ID selector*/
+#footer {
+  color: green;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/*Class selector*/
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  margin: 0 20px;
+}
+h1 {
+  color: purple;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+
+  font-size: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
